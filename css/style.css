@@ -1,0 +1,204 @@
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+        /* header */
+.header-style{
+    background-color :#ffffff;
+}
+.logo{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    font-weight: 700;
+    text-decoration:none;
+    }
+.web{
+    color: #2196F3;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+.studio {
+    color: #000;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+.style-link{
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.33;
+    letter-spacing: 0.02em;
+}
+.style-link:hover{
+    color: #2196F3;
+}
+.list{
+    text-decoration:none;
+    list-style:none;
+}
+.style-kontakts{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    text-decoration:none;
+    color:#757575;
+}
+.style-kontakts:hover{
+    color: #2196f3;
+    
+}
+.style-kontakts:focus{
+    color: #2196f3;
+}
+        /* Shapka */
+.zakaz-style{
+    background-color: rgba(47, 48, 58, 1);
+}
+.text-zakaz{
+    color:#FFFFFF;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+}
+.buttons-zakaz{
+    color: #FFFFFF;
+    background-color:#2196F3;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.06em;
+}
+        /* Особености */
+.style-detail{
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+}
+.style-detail-info{
+    color: #757575;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+}
+        /* Чем мы занимаемся */
+.style-zanatya{
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+}
+        /*  Наша команда*/
+.style-team{
+    background-color:#F5F4FA
+
+}
+.style-team-text{
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+}
+.style-people{
+    color: #212121;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+    }
+.profesion-style{
+    color:#757575;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.18;
+    letter-spacing: 0.03em;
+}
+        /* footer */
+.studio-footer{
+    color: #FFFFFF;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+}
+.footer-style{
+    background-color: rgba(47, 48, 58, 1);
+}
+.footer-adress{
+    color: #FFFFFF;
+    font-family:'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height:1.71;
+    letter-spacing: 0.03em;
+}
+.footer-kontakt:hover{
+    color: #2196f3;
+
+}
+.footer-kontakt:focus{
+    color: #2196f3;
+}
+.footer-kontakt{
+    font-family:'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
+.style-link-col{
+    color: #2196f3;
+}
+.button-style-portf{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.62;
+    text-align: center;
+    letter-spacing: 0.03em;
+    background-color: #F5F4FA;
+    border-radius: 4px;
+}
+.button-style-portf:hover{
+    background-color:#2196F3;
+    color: #FFFFFF;
+}
