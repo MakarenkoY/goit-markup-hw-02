@@ -202,3 +202,21 @@
     background-color:#2196F3;
     color: #FFFFFF;
 }
+.style-text-detail{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.style-text-detail-info{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.87;
+    letter-spacing: 0.03em;  
+    color: #757575;
+}
